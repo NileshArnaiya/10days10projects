@@ -1,0 +1,35 @@
+body{
+    background: #ffa949;
+    color:#fff;
+    font-family:'Arial', sans-serif;
+    font-size:15px;
+    
+}
+
+#container{
+
+    width:60%;
+    background: #199fdb;
+    overflow:auto;
+    margin:20px auto;
+    padding:20px;
+}
+
+header{
+    text-align: center;
+}
+
+header h1{
+    margin:0;
+    padding:0;
+}
+
+.submit{
+
+    background:darkgreen;
+    color:#fff;
+    cursor:pointer;
+    padding: 10px 15px ;
+
+
+}
